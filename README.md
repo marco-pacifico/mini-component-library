@@ -1,4 +1,4 @@
-# Component Library Workshop
+`# Component Library Workshop
 
 In this workshop, we'll build 3 components from scratch:
 
@@ -22,7 +22,7 @@ All components in this project use [the `Roboto` font](https://fonts.google.com/
 
 ## Running Storybook
 
-This project uses Storybook, a component development tool.
+This project uses Storybook, a component development tool!!!
 
 First, install dependencies with `npm install`.
 
